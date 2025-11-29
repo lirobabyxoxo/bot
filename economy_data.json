@@ -1,0 +1,54 @@
+{
+  "1417915214082605186": {
+    "balance": 14,
+    "lastDaily": 1759407475848,
+    "lastWork": 1759407771057,
+    "stats": {
+      "gamesPlayed": 10,
+      "gamesWon": 0,
+      "gamesLost": 10,
+      "totalWinnings": 0,
+      "totalLosses": 500
+    },
+    "inventory": []
+  },
+  "1163497511307202680": {
+    "balance": 0,
+    "lastDaily": null,
+    "lastWork": null,
+    "stats": {
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "gamesLost": 0,
+      "totalWinnings": 0,
+      "totalLosses": 0
+    },
+    "inventory": []
+  },
+  "1425091868265287834": {
+    "balance": 497,
+    "lastDaily": 1759978044990,
+    "lastWork": 1759978010059,
+    "stats": {
+      "gamesPlayed": 2,
+      "gamesWon": 0,
+      "gamesLost": 2,
+      "totalWinnings": 0,
+      "totalLosses": 100
+    },
+    "inventory": []
+  },
+  "1427437680504864870": {
+    "balance": 377,
+    "lastDaily": 1760569501098,
+    "lastWork": 1760569484392,
+    "stats": {
+      "gamesPlayed": 2,
+      "gamesWon": 1,
+      "gamesLost": 1,
+      "totalWinnings": 100,
+      "totalLosses": 50
+    },
+    "inventory": []
+  }
+}
